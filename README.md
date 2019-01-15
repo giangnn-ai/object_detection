@@ -16,6 +16,8 @@ Please watch the demo on Youtube https://youtu.be/W3x5il5w-jY
 - pydub
 - ffmpeg
 
+Yolo weights file can be download from https://pjreddie.com/darknet/yolo/
+
 ## Some other result
 (based on this repo: https://github.com/tensorflow/models/tree/master/research/object_detection)
 
